@@ -32,6 +32,7 @@ a {
 
 a:hover {
     color: #355763;
+    text-decoration: underline;
 }
 
 #img {
