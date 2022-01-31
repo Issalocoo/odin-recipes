@@ -1,0 +1,53 @@
+body {
+    background-color: #68b07f;
+}
+
+h1 {
+    color: #c95760;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+
+img {
+    padding-left: 700px;
+    height: 300px;
+}
+
+h3 {
+    color: #9e2c36;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.small-paragraph {
+    color: #9e2c36;
+    font-weight: bold;
+    text-align: center;
+    font-size: 22px;
+}
+
+.ingr {
+    color: #9e2c36;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+ul {
+     color: #9e2c36;
+     font-weight: bold;
+     font-size: 18px;
+}
+
+.steps {
+    color: #9e2c36;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+ol {
+    color: #9e2c36;
+    font-weight: bold;
+    font-size: 18px;
+}
